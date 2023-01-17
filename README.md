@@ -14,3 +14,4 @@ reforçando as tecnologias estudadas.
 # Projeto Final
 - Página desenvolvida com o objetivo de apresentar nossos recursos de aprendizado com a disponibilidades
 de estudar em diversos dispositivos.
+   
