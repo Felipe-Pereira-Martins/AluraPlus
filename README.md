@@ -15,3 +15,4 @@ reforçando as tecnologias estudadas.
 - Página desenvolvida com o objetivo de apresentar nossos recursos de aprendizado com a disponibilidades
 de estudar em diversos dispositivos.
    
+  
